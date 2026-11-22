@@ -161,15 +161,13 @@ Several limitations should be considered when looking at the findings:
 
 This project shows how Python, SQL, Excel, and Tableau can work together to turn raw book data into actionable marketing recommendations.
 
-By combining reader engagement metrics with genre and audience analysis, I identified 10 fiction books that may warrant further promotional consideration.
+By combining reader engagement metrics with genre and audience analysis, I found 10 fiction books that may respond well to additional marketing efforts.
 
 If I were continuing this project for a publisher, my next steps would be to:
 
 1. **Expand the Analysis:** Incorporate book sales, audience demographics, and additional engagement data.
 2. **Test Campaigns:** Launch small, genre-specific promotional campaigns.
 3. **Measure Performance:** Evaluate impressions, click-through rates, conversions, and return on investment.
-
-The broader takeaway is that data analytics can help publishers identify potential opportunities, develop more focused marketing strategies, and make informed decisions about promotional investments.
 
 ---
 
