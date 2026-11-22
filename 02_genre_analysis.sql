@@ -10,7 +10,7 @@ GROUP BY
   genre
 ORDER BY
   unique_books DESC
-LIMIT 20
+LIMIT 20;
 
 -- Purpose: Compare average ratings and reviews per book across all genre classifications.
 -- Popular franchises and authors had the most results, showing that factors beyond genre influence engagement.
@@ -120,7 +120,7 @@ WHERE
 GROUP BY
   bg.genre
 ORDER BY
-  avg_reader_rating DESC
+  avg_reader_rating DESC;
 
 -- ANALYSIS SUMMARY & NEXT STEPS
 -- This initial exploration looked at how books were distributed across genres and compared their ratings and engagement.
